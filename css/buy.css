@@ -240,6 +240,15 @@ sup {
     font-size: 1.8rem;
     font-family: var(--title-font);
 }
+.bold span {
+    text-transform: uppercase;
+    font-size: inherit;
+    font-family: inherit;
+}
+option {
+    background-color: var(--second-brand-color);
+    color: red;
+}
 .rules {
     font-size: 1.6rem;
 }
