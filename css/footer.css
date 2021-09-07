@@ -1,6 +1,16 @@
 .footer__wrapper  {
     background-color: var(--first-brand-color);
 }
+.fda-text {
+    font-size: 1.4rem;
+    margin-top: 10rem;
+    color: var(--main-text-color);
+  }
+  .fda-text sup {
+    font-family: var(--title-font);
+    color: var(--accent-color);
+    margin-right: .5rem;
+  }
 .footer__list {
     margin-bottom: 4rem;
 }
